@@ -58,27 +58,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📁 Project Structure
 
-\`\`\`
-├── app/
-│   ├── auth/
-│   │   ├── login/page.tsx          # Login page
-│   │   ├── signup/page.tsx         # Sign-up page
-│   │   └── callback/page.tsx       # OAuth callback handler
-│   ├── dashboard/page.tsx          # Main dashboard
-│   ├── layout.tsx                  # Root layout with theme provider
-│   ├── page.tsx                    # Landing page
-│   └── globals.css                 # Global styles and theme system
-├── components/
-│   └── theme-provider.tsx          # Theme management
-├── lib/
-│   ├── supabase.ts                 # Supabase client configuration
-│   └── session-utils.ts            # Session management utilities
-├── scripts/
-│   ├── setup-database.sql          # Complete database setup
-│   ├── verify-setup.sql            # Verification queries
-│   └── configure-email-verification.sql
-└── middleware.ts                   # Route protection
-\`\`\`
+![image](https://github.com/user-attachments/assets/1a06f3c6-4b30-4fa6-ada5-427d20dab6db)
+
 
 ## 🛠️ Technology Stack
 
