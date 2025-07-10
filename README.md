@@ -2,7 +2,7 @@
 
 A modern, responsive note-taking application built with React, TypeScript, Next.js, and Supabase. Features secure authentication, real-time data sync, and a beautiful dark/light theme system.
 
-![NoteTaker Screenshot](https://via.placeholder.com/800x400/21808D/FCFCF9?text=NoteTaker+Dashboard)
+Link: https://note-taker-crud.vercel.app/
 
 ## ✨ Features
 
